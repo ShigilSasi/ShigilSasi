@@ -156,18 +156,6 @@ A role-based web application for managing client support queries.
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ShigilSasi&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShigilSasi&layout=compact&theme=tokyonight" />
-</p>
-
----
-
 ## 📫 Let’s Connect
 
 📧 **Email:** shigilshalu@gmail.com  
