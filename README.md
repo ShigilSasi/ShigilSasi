@@ -1,7 +1,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Shigil S</h1>
-<h3 align="center">Data Scientist | ML Engineer | Streamlit App Developer</h3>
+<h3 align="center">Data Scientist | ML Engineer </h3>
 
 <p align="center">
   <a href="https://linkedin.com/in/ShigilSasi"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin"></a>
