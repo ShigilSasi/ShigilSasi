@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/your-image/banner.png" alt="Banner" width="100%" />
-</p>
+
 
 <h1 align="center">Hi 👋, I'm Shigil S</h1>
 <h3 align="center">Data Scientist | ML Engineer | Streamlit App Developer</h3>
@@ -79,6 +77,3 @@ I enjoy building **end-to-end data products** — from raw data → ML models �
 - Query lifecycle tracking (Open / Pending / Closed)
 - Analytics dashboards & secure authentication (SHA-256)
 
-📸 *Add screenshot here*  
-```text
-/images/client_query_dashboard.png
